@@ -7,5 +7,6 @@ use (
 	./ch01/04-environment-variables
 	./ch01/05-subcommands
 	./ch01/challenge
+	./ch02/01-running-commands
 	./logs
 )

@@ -12,3 +12,7 @@
 - [04 environment variables](./ch01/04-environment-variables/main.go)
 - [05 subcommands](./ch01/05-subcommands/main.go)
 - [challenge](./ch01/challenge/main.go)
+
+## 2. Testing
+
+- [01 running commands](./ch02/01-running-commands/main.go)
