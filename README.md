@@ -24,3 +24,4 @@
 
 - [01 building static applications](./ch03/01-building-static-applications/health.go)
 - [02 embedding assets](./ch03/02-embedding-assets/health.go)
+- [03 building for multiple targets](./ch03/03-build-for-multiple-targets)
