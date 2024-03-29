@@ -19,3 +19,7 @@
 - [02 supporting redirection](./ch02/02-supporting-redirection/main.go)
 - [03 setting environment variables](./ch02/03-setting-environment-variables/main.go)
 - [challenge](./ch02/challenge/rot13_test.go)
+
+## 3. Shipping your code
+
+- [01 building static applications](./ch03/01-building-static-applications/main.go)
