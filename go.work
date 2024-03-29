@@ -8,5 +8,6 @@ use (
 	./ch01/05-subcommands
 	./ch01/challenge
 	./ch02/01-running-commands
+	./ch02/02-supporting-redirection
 	./logs
 )
