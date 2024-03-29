@@ -4,5 +4,6 @@ use (
 	./ch01/01-parsing-arguments
 	./ch01/02-providing-help
 	./ch01/03-custom-argument-types
+	./ch01/04-environment-variables
 	./logs
 )

@@ -9,3 +9,4 @@
 - [01 parsing arguments](./ch01/01-parsing-arguments/main.go)
 - [02 providing help](./ch01/02-providing-help/main.go)
 - [03 custom argument types](./ch01/03-custom-argument-types/main.go)
+- [04 environment variables](./ch01/04-environment-variables/main.go)
