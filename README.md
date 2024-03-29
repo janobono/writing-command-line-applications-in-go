@@ -11,3 +11,4 @@
 - [03 custom argument types](./ch01/03-custom-argument-types/main.go)
 - [04 environment variables](./ch01/04-environment-variables/main.go)
 - [05 subcommands](./ch01/05-subcommands/main.go)
+- [challenge](./ch01/challenge/main.go)

@@ -6,5 +6,6 @@ use (
 	./ch01/03-custom-argument-types
 	./ch01/04-environment-variables
 	./ch01/05-subcommands
+	./ch01/challenge
 	./logs
 )
