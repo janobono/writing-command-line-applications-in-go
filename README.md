@@ -17,3 +17,4 @@
 
 - [01 running commands](./ch02/01-running-commands/main.go)
 - [02 supporting redirection](./ch02/02-supporting-redirection/main.go)
+- [03 setting environment variables](./ch02/03-setting-environment-variables/main.go)
