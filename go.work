@@ -11,5 +11,6 @@ use (
 	./ch02/02-supporting-redirection
 	./ch02/03-setting-environment-variables
 	./ch02/challenge
+	./ch03/02-embedding-assets
 	./logs
 )

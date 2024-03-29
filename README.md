@@ -22,4 +22,5 @@
 
 ## 3. Shipping your code
 
-- [01 building static applications](./ch03/01-building-static-applications/main.go)
+- [01 building static applications](./ch03/01-building-static-applications/health.go)
+- [02 embedding assets](./ch03/02-embedding-assets/health.go)
