@@ -25,3 +25,8 @@
 - [01 building static applications](./ch03/01-building-static-applications/health.go)
 - [02 embedding assets](./ch03/02-embedding-assets/health.go)
 - [03 building for multiple targets](./ch03/03-build-for-multiple-targets)
+- 04 getting smaller
+  - [strip](https://man7.org/linux/man-pages/man1/strip.1.html)
+  - [upx](https://upx.github.io/)
+  - [TinyGo](https://tinygo.org/)
+- [05 adding version information](./ch03/05-adding-version-information)
