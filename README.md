@@ -7,3 +7,4 @@
 ## 1. The Flag Package
 
 - [01 parsing arguments](./ch01/01-parsing-arguments/main.go)
+- [02 providing help](./ch01/02-providing-help/main.go)
