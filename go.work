@@ -3,5 +3,6 @@ go 1.22.0
 use (
 	./ch01/01-parsing-arguments
 	./ch01/02-providing-help
+	./ch01/03-custom-argument-types
 	./logs
 )
